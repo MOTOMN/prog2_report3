@@ -1,7 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<testsuite name="jp.ac.uryukyu.ie.e205734.AppTest" tests="1" skipped="0" failures="0" errors="0" timestamp="2020-11-23T07:47:46" hostname="MOTO.local" time="0.001">
-  <properties/>
-  <testcase name="appHasAGreeting()" classname="jp.ac.uryukyu.ie.e205734.AppTest" time="0.001"/>
-  <system-out><![CDATA[]]></system-out>
-  <system-err><![CDATA[]]></system-err>
-</testsuite>
