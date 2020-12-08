@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="jp.ac.uryukyu.ie.e205734.WarriorTest" tests="1" skipped="0" failures="0" errors="0" timestamp="2020-12-08T08:13:59" hostname="MOTO.local" time="0.017">
+  <properties/>
+  <testcase name="attackWithWeponSkillTest()" classname="jp.ac.uryukyu.ie.e205734.WarriorTest" time="0.017"/>
+  <system-out><![CDATA[デモ勇者のHPは100。攻撃力は100です。
+スライムもどきのHPは450。攻撃力は100です。
+デモ勇者の攻撃！ウェポンスキル発動！スライムもどきに150のダメージを与えた！！
+デモ勇者の攻撃！ウェポンスキル発動！スライムもどきに150のダメージを与えた！！
+デモ勇者の攻撃！ウェポンスキル発動！スライムもどきに150のダメージを与えた！！
+]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
