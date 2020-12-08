@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<testsuite name="jp.ac.uryukyu.ie.e205734.EnemyTest" tests="1" skipped="0" failures="0" errors="0" timestamp="2020-11-23T07:47:46" hostname="MOTO.local" time="0.018">
+<testsuite name="jp.ac.uryukyu.ie.e205734.EnemyTest" tests="1" skipped="0" failures="0" errors="0" timestamp="2020-12-08T06:17:27" hostname="MOTO.local" time="0.006">
   <properties/>
-  <testcase name="attackTest()" classname="jp.ac.uryukyu.ie.e205734.EnemyTest" time="0.018"/>
+  <testcase name="attackTest()" classname="jp.ac.uryukyu.ie.e205734.EnemyTest" time="0.006"/>
   <system-out><![CDATA[デモ勇者のHPは100。攻撃力は100です。
 スライムもどきのHPは10。攻撃力は100です。
-デモ勇者の攻撃！スライムもどきに11のダメージを与えた！！
+デモ勇者の攻撃！スライムもどきに29のダメージを与えた！！
 モンスタースライムもどきは倒れた。
 ]]></system-out>
   <system-err><![CDATA[]]></system-err>
