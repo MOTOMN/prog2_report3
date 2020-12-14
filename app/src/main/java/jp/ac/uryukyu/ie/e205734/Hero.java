@@ -45,6 +45,13 @@ public class Hero extends LivingThing{
         return this.attack;
     }
     /**
+     * nameフィールドに指定した値を代入するメソッド。
+     * @param name ヒーローの名前
+     */
+    public void setName(String name){
+        this.name = name;
+    }
+    /**
      * hitPointフィールドに指定した値を代入するメソッド。
      * @param hitPoint ヒーローのHP
      */
@@ -65,11 +72,4 @@ public class Hero extends LivingThing{
     public void setDead(boolean dead){
         this.dead=dead;
     } 
-    /**
-     * コンストラクタ。名前、最大HP、攻撃力を指定する。
-     * @param name ヒーロー名
-     * @param maximumHP ヒーローのHP
-     * @param attack ヒーローの攻撃力
-     */
-    
 }
