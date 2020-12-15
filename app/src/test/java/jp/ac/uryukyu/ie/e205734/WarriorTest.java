@@ -16,6 +16,6 @@ void attackWithWeponSkillTest() {
         demoHero.attackWithWeponSkill(slime);
     }
 
-    assertEquals(0, slime.getHitPoint());
+    assertEquals(0, slime.hitPoint);
 }
 }

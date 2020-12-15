@@ -14,7 +14,7 @@ public class LivingThing {
         System.out.printf("%sのHPは%d。攻撃力は%dです。\n", name, maximumHP, attack);
     }
 
-    public boolean getDead(){
+    public boolean isDead(){
         return this.dead;
     } 
     public String getName(){
